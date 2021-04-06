@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SC20260_JSON_TinyCLR_BuildIn", "SC20260_JSON_TinyCLR_BuildIn\SC20260_JSON_TinyCLR_BuildIn.csproj", "{F9A47A12-F94B-4ACC-8AA7-05BA2B962947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9A47A12-F94B-4ACC-8AA7-05BA2B962947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A47A12-F94B-4ACC-8AA7-05BA2B962947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A47A12-F94B-4ACC-8AA7-05BA2B962947}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F9A47A12-F94B-4ACC-8AA7-05BA2B962947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A47A12-F94B-4ACC-8AA7-05BA2B962947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9A47A12-F94B-4ACC-8AA7-05BA2B962947}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5352AE7-1D7B-4BE3-8004-0B44F2E0FE6A}
+	EndGlobalSection
+EndGlobal
